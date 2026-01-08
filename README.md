@@ -1,56 +1,72 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shahis</h1>
-<h3 align="center">Aspiring Java Spring Boot & Blockchain Developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Muhammad+Shahis!;Java+%26+Blockchain+Enthusiast+%F0%9F%9A%80;Building+the+Future+with+Web3+%26+Spring+Boot" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<h2 align="center">🚀 Aspiring Full-Stack Java & Blockchain Developer</h2>
 
 <p align="center">
-  <a href="tel:+923151387450">+92-315-1387450</a> • 
-  <a href="mailto:shahiskhan903@gmail.com">shahiskhan903@gmail.com</a>
+  <strong>Turning ideas into secure, scalable, decentralized realities</strong> 🌐🔗
+</p>
+
+<p align="center">
+  <a href="tel:+923151387450"><img src="https://img.shields.io/badge/Phone-%2B92--315--1387450-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+  <a href="mailto:shahiskhan903@gmail.com"><img src="https://img.shields.io/badge/Email-shahiskhan903@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadshahiskhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Shahiskhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Add your portfolio link here if ready -->
+  <!-- Add portfolio if ready: <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> -->
 </p>
 
 <br/>
 
-### 🛠️ Technologies & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,docker,postman&perline=6" alt="Tools Icons"/>
+</div>
+
+<h3 align="center">💻 Core Technologies</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,springboot,hibernate,js,html,css,react,git,github,docker,mysql,postman&perline=7" alt="Tech Stack"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,hibernate,mysql&perline=5" alt="Backend Stack"/><br/><br/>
+  <strong>Core Java</strong> • OOP • DSA • Java 8+ (Lambdas, Streams, Optional) • Multithreading • Collections
 </p>
 
-### 💻 Programming & Core
+<h3 align="center">🔐 Backend & Security Magic</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java"/> 
-  <strong>Core Java</strong> • OOP • DSA • Java 8+ (Streams, Lambda) • Multithreading
+  <img src="https://skillicons.dev/icons?i=spring,springboot,hibernate&perline=3" alt="Spring Family"/><br/><br/>
+  <strong>Spring Boot</strong> • Spring MVC • Spring Security (JWT • OAuth2) • Spring Data JPA • Hibernate • REST APIs • AOP • Validation • Swagger
 </p>
 
-### ⚙️ Backend & Frameworks
+<h3 align="center">⛓️ Blockchain & Web3 Passion</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,springboot&theme=dark" width="48" alt="Spring"/> 
-  <strong>Spring Boot</strong> • Spring MVC • Spring Security (JWT, OAuth2) • Spring Data JPA • Hibernate • RESTful APIs • AOP • Validation
+  <img src="https://skillicons.dev/icons?i=ethereum&perline=1" alt="Ethereum"/><br/><br/>
+  <strong>Web3j (Ethereum)</strong> • Bitcoinj • Smart Contracts • Wallet Generation • Multi-chain Support • Transaction Signing • DeFi Systems
 </p>
 
-### ⛓️ Blockchain & Web3
-<p align="center">
-  <strong>Web3j (Ethereum)</strong> • Bitcoinj • Smart Contracts • Wallet Management • Multi-chain Development • Transaction Signing
-</p>
+<h3 align="center">🎨 Frontend Touch</h3>
 
-### 🌐 Frontend & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,git,docker,mysql&theme=dark" width="48" alt="Frontend Tools"/> 
-  <strong>React (Basic)</strong> • HTML5/CSS3 • JavaScript (ES6+) • Git/GitHub • Maven • Docker • Postman • Swagger
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend"/><br/><br/>
+  <strong>HTML5 • CSS3 • JavaScript (ES6+)</strong> • React (Basics) • Tailwind CSS • Responsive Design
 </p>
 
 <br/>
 
-<p align="center">
-  <em>Passionate about building secure, scalable systems and bridging Web2 with Web3 🚀</em>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Pakistan-🇵🇰-green?style=for-the-badge" alt="Made in Pakistan"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-🔥-red?style=for-the-badge" alt="Always Learning"/>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pakistan-🇵🇰-brightgreen?style=flat-square" alt="Location"/>
+  <em>"Code. Secure. Decentralize. Repeat." 💪</em><br/>
+  Bridging Web2 & Web3 | Building tomorrow's systems today 🚀
 </p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shahiskhan.Shahiskhan" alt="Profile Views"/>
+</div>
